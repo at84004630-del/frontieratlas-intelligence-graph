@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+*.log
+logs/
+.env
+.DS_Store
+Thumbs.db
+
+# Personal documents
+*Resume*
+*Cover_Letter*
+*resume*
+*cover_letter*
+GITHUB_PROFILE_README.md
