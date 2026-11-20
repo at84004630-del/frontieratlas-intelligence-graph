@@ -1,0 +1,150 @@
+schemaVersion,recordType,content.title,content.company,content.date,content.is_remote,content.role_family
+1.0,JOB,Head of MyG Core Workflows,Geotab,2026-11-20T16:45:37+00:00,True,Product
+1.0,JOB,"Staff Software Engineer, eCommerce",Liftoff,2026-11-20T16:45:35+00:00,True,Research
+1.0,JOB,"Field CTO, Media & Entertainment AI Infrastructure",Nebius,2026-11-20T16:44:58+00:00,True,Product
+1.0,JOB,"Software Engineer, Dash",Liftoff,2026-11-20T16:44:55+00:00,True,Research
+1.0,JOB,Field Hardware Engineer,Geotab,2026-11-20T16:44:30+00:00,True,Product
+1.0,JOB,"Senior Analyst, Financial Reporting",Liftoff,2026-11-20T16:44:28+00:00,True,Research
+1.0,JOB,3PL Operations Manager,Nebius,2026-11-20T16:44:26+00:00,True,Product
+1.0,JOB,Business Development Manager - Mobility Data and Analytics,Geotab,2026-11-20T16:44:25+00:00,True,Research
+1.0,JOB,"Senior Manager, Product Marketing (remote within the United States)",League,2026-11-20T16:44:23+00:00,True,Research
+1.0,JOB,GTM Lead,Liftoff,2026-11-20T16:44:21+00:00,True,Research
+1.0,JOB,"Enterprise Account Executive, NYC",Horizon3,2026-11-20T14:20:06+00:00,True,Product
+1.0,JOB,"Manager, Business Risk and AI Automation",Reddit,2026-11-20T14:20:04+00:00,True,Design
+1.0,JOB,Outbound Sales Development Representative,Fleetio,2026-11-20T14:20:02+00:00,True,Research
+1.0,JOB,"Mid-Enterprise Account Executive, Ohio Valley",Horizon3,2026-11-20T14:19:36+00:00,True,Product
+1.0,JOB,Machine Learning Engineer,Reddit,2026-11-20T14:19:35+00:00,True,Research
+1.0,JOB,Senior Concept Artist,Hyperhug,2026-11-20T14:19:33+00:00,True,Product
+1.0,JOB,Senior Back End Engineer,Horizon3,2026-11-20T14:19:31+00:00,True,Product
+1.0,JOB,Community Manager – French Speaking (12-Month Contract),Reddit,2026-11-20T14:19:29+00:00,True,Product
+1.0,JOB,"Account Executive, SMB",Fleetio,2026-11-20T14:19:28+00:00,True,Product
+1.0,JOB,Senior QA Engineer,Hyperhug,2026-11-20T14:19:26+00:00,True,Product
+1.0,JOB,Growth & Campaign Manager - SEA,Binance,2026-11-20T09:41:14+00:00,True,Research
+1.0,JOB,Binance Accelerator Program - VIP Sales operation,Binance,2026-11-20T09:40:21+00:00,True,Research
+1.0,JOB,"Strategic Account Executive, Mining",Armada,2026-11-20T09:39:38+00:00,True,Product
+1.0,JOB,"Senior Customer Engineer, AI-Factory",Armada,2026-11-20T09:39:23+00:00,True,Design
+1.0,JOB,Senior Contracts and Budget Associate/Assoc Contracts Manager,Precision Medicine,2026-11-20T09:39:21+00:00,True,Research
+1.0,JOB,Android Engineer (APAC Remote),Binance,2026-11-20T09:39:20+00:00,True,Research
+1.0,JOB,Data Center Construction Manager,Armada,2026-11-20T09:39:18+00:00,True,Product
+1.0,JOB,Sr. Clinical Research Associate (Australia),Alimentiv,2026-11-20T09:39:16+00:00,True,Research
+1.0,JOB,"Account Manager, Scale",Braze,2026-11-20T09:39:15+00:00,True,Product
+1.0,JOB,Regulatory and Site Start Up Specialist,Precision Medicine,2026-11-20T09:39:13+00:00,True,Research
+1.0,JOB,"Recruiter, R&D",Gitlab,2026-11-20T09:35:08+00:00,True,Research
+1.0,JOB,"Lead Machine Learning Scientist, Search",Monzo,2026-11-20T09:34:38+00:00,True,Research
+1.0,JOB,New Business Account Executive - Nordics,Gitlab,2026-11-20T09:34:37+00:00,True,Product
+1.0,JOB,"Lead Machine Learning Scientist, FinCrime",Monzo,2026-11-20T09:34:35+00:00,True,Research
+1.0,JOB,"Candidate Experience Specialist, Contractor (EMEA)",Gitlab,2026-11-20T09:34:13+00:00,True,Research
+1.0,JOB,Senior Accountant,Saas,2026-11-20T09:34:11+00:00,True,Design
+1.0,JOB,"Lead Machine Learning Scientist, Customer Operations",Monzo,2026-11-20T09:34:09+00:00,True,Research
+1.0,JOB,"Backend Engineer (Ruby), AI Engineering: AI Catalog",Gitlab,2026-11-20T09:34:07+00:00,True,Product
+1.0,JOB,Accounting Manager,Saas,2026-11-20T09:34:06+00:00,True,Product
+1.0,JOB,Complaints Policy Manager,Monzo,2026-11-20T09:34:04+00:00,True,Product
+1.0,JOB,"Senior Manager, Paid Search B2B",Wpromote,2026-11-20T09:32:27+00:00,True,Product
+1.0,JOB,"Senior Manager, Channel Partnerships",Wpromote,2026-11-20T09:32:13+00:00,True,Research
+1.0,JOB,Principal Customer Success Manager,Fin,2026-11-20T09:32:11+00:00,True,Research
+1.0,JOB,"Senior Director, Paid Search",Wpromote,2026-11-20T09:31:49+00:00,True,Research
+1.0,JOB,Senior Product Manager (Prediction Markets),Phantom,2026-11-20T09:31:46+00:00,True,Product
+1.0,JOB,"Senior Director, Growth (Agency Sales)",Wpromote,2026-11-20T09:31:45+00:00,True,Research
+1.0,JOB,Head of Internal Communications,Phantom,2026-11-20T09:31:43+00:00,True,Research
+1.0,JOB,"Senior Director, Client Strategy (Media Strategy)",Wpromote,2026-11-20T09:31:41+00:00,True,Product
+1.0,JOB,UX Researcher,Phantom,2026-11-20T09:31:09+00:00,True,Research
+1.0,JOB,"Senior Director, Client Services B2B",Wpromote,2026-11-20T09:31:07+00:00,True,Product
+1.0,JOB,"Senior Director, B2B Media Strategy",Wpromote,2026-11-20T09:31:04+00:00,True,Research
+1.0,JOB,Forward Deployed Engineer,Fin,2026-11-20T09:31:02+00:00,True,Design
+1.0,JOB,Copywriter,Phantom,2026-11-20T09:31:00+00:00,True,Product
+1.0,JOB,Senior Amazon & Retail Media Manager,Wpromote,2026-11-20T09:30:57+00:00,True,Product
+1.0,JOB,Sr. Manager of IT & Operations,Osano,2026-11-20T09:30:55+00:00,True,Research
+1.0,JOB,"Director, Solutions Engineering",Fin,2026-11-20T09:30:02+00:00,True,Product
+1.0,JOB,"Product Manager, Data & AI",Freshpaint,2026-11-20T09:29:59+00:00,True,Research
+1.0,JOB,Recruiting Coordinator (Contract),Phantom,2026-11-20T09:29:57+00:00,True,Product
+1.0,JOB,"Manager, Organic Social",Wpromote,2026-11-20T09:29:54+00:00,True,Product
+1.0,JOB,Senior AI Engineer,Osano,2026-11-20T09:29:51+00:00,True,Product
+1.0,JOB,"Regional Vice President of Sales, Providers",Freshpaint,2026-11-20T09:29:48+00:00,True,Research
+1.0,JOB,"Director, Paid Search",Wpromote,2026-11-20T09:29:46+00:00,True,Research
+1.0,JOB,Performance Marketing Manager,Osano,2026-11-20T09:29:43+00:00,True,Research
+1.0,JOB,Enterprise Implementation Engineer,Freshpaint,2026-11-20T09:29:16+00:00,True,Research
+1.0,JOB,Senior Product Manager,Dscout,2026-11-20T09:29:14+00:00,True,Research
+1.0,JOB,"Director, AI Solutions",Wpromote,2026-11-20T09:29:12+00:00,True,Product
+1.0,JOB,Enterprise Account Executive,Osano,2026-11-20T09:29:10+00:00,True,Product
+1.0,JOB,Support Engineer,Freshpaint,2026-11-20T09:29:08+00:00,True,Design
+1.0,JOB,Customer Success Lead,Dscout,2026-11-20T09:29:07+00:00,True,Research
+1.0,JOB,Product Designer,Phantom,2026-11-20T09:29:05+00:00,True,Research
+1.0,JOB,Director of Commercial Marketing,Ifit,2026-11-20T09:27:58+00:00,True,Research
+1.0,JOB,Solutions Engineering Analyst,Yipitdata,2026-11-20T09:27:56+00:00,True,Research
+1.0,JOB,Sales Development Representative,Orkes,2026-11-20T09:27:35+00:00,True,Research
+1.0,JOB,"Senior Frontend Engineer, Foundations",Netbox,2026-11-20T09:27:11+00:00,True,Product
+1.0,JOB,"Director, Digital Analytics & Experimentation",Ifit,2026-11-20T09:27:10+00:00,True,Product
+1.0,JOB,"Senior Sales Executive, Strategic Banking",Yipitdata,2026-11-20T09:27:07+00:00,True,Research
+1.0,JOB,Security Systems Solutions Engineer,Bogaard International,2026-11-20T09:27:06+00:00,True,Research
+1.0,JOB,Demand Generation Manager,Orkes,2026-11-20T09:27:04+00:00,True,Research
+1.0,JOB,"Technical Support Engineer, Spanish Bilingual (6 Month Contract, Remote)",Brain,2026-11-20T09:27:02+00:00,True,Product
+1.0,JOB,"Director, Total Rewards",Netbox,2026-11-20T09:27:00+00:00,True,Design
+1.0,JOB,Crux - Video and Audio QA - German (Germany),Welo Global,2026-11-20T08:39:50+00:00,True,Research
+1.0,JOB,Android Software Engineer,Bjak,2026-11-20T08:39:49+00:00,True,Product
+1.0,JOB,Commercial Counsel - Germany,ElevenLabs,2026-11-20T08:39:34+00:00,True,Research
+1.0,JOB,"Staff Software Engineer, OS Integration",Mozilla,2026-11-20T08:39:32+00:00,True,Product
+1.0,JOB,iOS Developer,Bjak,2026-11-20T08:39:31+00:00,True,Design
+1.0,JOB,Data Scientist - Product Analytics,ElevenLabs,2026-11-20T08:39:29+00:00,True,Research
+1.0,JOB,Developer Support Engineer,Revenuecat,2026-11-20T08:39:27+00:00,True,Product
+1.0,JOB,"Senior Business Development Manager, Germany",Okx,2026-11-20T08:39:25+00:00,True,Product
+1.0,JOB,Strategic Account Executive - Nordics & Baltics,Axon,2026-11-20T08:34:13+00:00,True,Product
+1.0,JOB,"Strategic Account Executive, DACH",Axon,2026-11-20T08:34:11+00:00,True,Product
+1.0,JOB,The Flex Algeria: Expansion Lead,The Flex,2026-11-20T08:28:57+00:00,True,Design
+1.0,JOB,The Flex Algeria: Chief of Staff,The Flex,2026-11-20T08:28:26+00:00,True,Design
+1.0,JOB,"Manager, Legal Programs, Privacy & AI (EU/UK)",Hims & 038 Hers,2026-11-20T08:28:03+00:00,True,Product
+1.0,JOB,Customer Service Agent: Korean (8:00 am- 16:00pm),Fever,2026-11-20T08:28:01+00:00,True,Product
+1.0,JOB,The Flex Algeria: Entrepreneur in Residence (EIR),The Flex,2026-11-20T08:27:59+00:00,True,Design
+1.0,JOB,"Senior Counsel, Privacy & AI (EU/UK)",Hims & 038 Hers,2026-11-20T08:27:58+00:00,True,Product
+1.0,JOB,Customer Service Agent: Korean (00:00 am- 8:00am),Fever,2026-11-20T08:27:56+00:00,True,Design
+1.0,JOB,"The Flex Algeria: Generalist, Operations & Growth",The Flex,2026-11-20T08:27:54+00:00,True,Design
+1.0,JOB,"Senior Project Manager, Professional Services",Scale AI,2026-11-20T08:27:53+00:00,True,Product
+1.0,JOB,SAR Image Annotation Consultant,Iceye,2026-11-20T08:27:51+00:00,True,Research
+1.0,JOB,Working Student (m|w|d) Performance Marketing / Paid Social,Idealo Internet,2026-11-20T18:31:12+00:00,False,Product
+1.0,JOB,Quality Manager (all genders) – Quality & Sustainability,Mammaly,2026-11-20T17:00:40+00:00,False,Design
+1.0,JOB,AI Full-Stack Developer (m/w/d),Neon Solutions,2026-11-20T16:31:08+00:00,True,Design
+1.0,JOB,Data Scientist (m/f/x),Diamontech Ag,2026-11-20T16:31:06+00:00,False,Research
+1.0,JOB,Trainee SAP Master Data Management (MDM) Consultant (m/w/d),Cbs Corporate Business Solutions,2026-11-20T15:31:37+00:00,False,Design
+1.0,JOB,Solution Architect (m/w/d) Data & AI,Cbs Corporate Business Solutions,2026-11-20T15:31:37+00:00,False,Sales
+1.0,JOB,Staff Data Scientist,Monzo,2026-11-20T18:55:21+00:00,False,Research
+1.0,JOB,Lead Data Scientist,Monzo,2026-11-20T18:55:21+00:00,False,Research
+1.0,JOB,Senior Integrated Marketing Manager (Global Campaigns),Deliveroo,2026-11-20T15:45:31+00:00,False,Research
+1.0,JOB,AI & Revenue Operations Lead,Light,2026-11-20T15:40:14+00:00,False,Research
+1.0,JOB,"Senior Software Engineer, Airi",Airwallex,2026-11-20T15:40:12+00:00,False,Design
+1.0,JOB,Business Analyst - Retail & Merchandising - Contract Role,Project Blackbook,2026-11-20T17:47:37+00:00,False,Design
+1.0,JOB,"Senior Manager, Maintenance Compounding (Enfield, UK)",Hims And Hers,2026-11-20T12:40:17+00:00,False,Product
+1.0,JOB,"Copy of Senior Manager, Maintenance –Compounding Pharmacy Facilites",Hims And Hers,2026-11-20T12:40:17+00:00,False,Product
+1.0,JOB,"Sr. Manager, Data Science",Hims And Hers,2026-11-20T12:40:17+00:00,False,Research
+1.0,JOB,"Manager, Legal Programs, Privacy & AI (EU/UK)",Hims And Hers,2026-11-20T12:40:17+00:00,False,Product
+1.0,JOB,"Senior Counsel, Privacy & AI (EU/UK)",Hims And Hers,2026-11-20T12:40:17+00:00,False,Product
+1.0,JOB,Stage qualité agroalimentaire,Les Menus Du Monde,2026-11-20T16:31:04+00:00,False,Design
+1.0,JOB,CDI - Responsable R&D Traiteur F/H,Fleury Michon,2026-11-20T15:31:38+00:00,False,Design
+1.0,JOB,Chargé.e Ressources Humaines,Groupe Soloc,2026-11-20T13:01:01+00:00,False,Design
+1.0,JOB,Barman Senior (Head Bartender) - Soho House Paris H/F,Sohohouseco,2026-11-20T12:55:20+00:00,False,Design
+1.0,JOB,Engineering Lead – Connectivity Domain,Sunweb,2026-11-20T15:31:39+00:00,False,Research
+1.0,JOB,Stagiair Social Media - vtwonen,Dpg Media,2026-11-20T15:31:39+00:00,False,Design
+1.0,JOB,Senior Account Manager - Warehouse Automation - BENELUX,Exotec,2026-11-20T04:20:15+00:00,True,Research
+1.0,JOB,Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX,Exotec,2026-11-20T04:20:15+00:00,True,Research
+1.0,JOB,"Senior Manager, Global Direct Procurement (f/m/x)",Hellofresh,2026-11-20T00:55:31+00:00,False,Research
+1.0,JOB,"Senior Manager, AI Forward Deployed Engineering",Databricks,2026-11-20T00:55:28+00:00,False,Research
+1.0,JOB,AI Forward Deployed Engineer - Netherlands,Databricks,2026-11-20T00:55:28+00:00,False,Research
+1.0,JOB,Stagiair Social project management StudioM,Wppmedia,2026-11-20T00:55:27+00:00,False,Product
+1.0,JOB,Gestionnaire en ingénierie - le volet IA,Nesto Cloud,2026-11-20T19:04:41+00:00,True,Design
+1.0,JOB,Video Editor,Wow Remote Teams,2026-11-20T19:04:26+00:00,True,Design
+1.0,JOB,Clinical Epic IT Trainer,Vanderbilt University Medical Center,2026-11-20T19:04:20+00:00,True,Research
+1.0,JOB,Learning Operations Specialist,Hireboost,2026-11-20T19:01:33+00:00,True,Research
+1.0,JOB,Payroll Compliance & Amendments Consultant,Wipfli,2026-11-20T19:01:19+00:00,True,Research
+1.0,JOB,Consultant en recrutement indépendant H/F - Nanterre,Hunteed,2026-11-20T19:00:35+00:00,True,Design
+1.0,JOB,"Sr Director, IT Security & Privacy",Exp,2026-11-20T18:59:46+00:00,True,Product
+1.0,JOB,"Essay & Interview Mentor, US Boarding and Day School Admissions",Crimson Education,2026-11-20T18:57:11+00:00,True,Research
+1.0,JOB,"Implementation Lead, Tempus Technologies",Pnc,2026-11-20T18:56:59+00:00,True,Design
+1.0,JOB,Staff Global Supply Manager,Evgo,2026-11-20T18:52:35+00:00,True,Research
+1.0,JOB,"Channel Sales Executive, Penang",Tp Link Usa,2026-11-20T18:52:26+00:00,True,Product
+1.0,JOB,D365 Architect,Testyantra Solutions,2026-11-20T18:52:26+00:00,True,Design
+1.0,JOB,Telecom Expense Project Manager,Unity Communications,2026-11-20T18:52:25+00:00,True,Product
+1.0,JOB,Revenue Integrity Coordinator 2,The Ohio State University,2026-11-20T18:52:05+00:00,True,Design
+1.0,JOB,Clinical Operations Strategy Lead,Centerwell Senior Primary Care,2026-11-20T18:49:51+00:00,True,Research
+1.0,JOB,Sr Cybersecurity Analyst/Documentation Lead,Boston Government Services,2026-11-20T18:49:02+00:00,True,Product
+1.0,JOB,Audio Engineer - AI Trainer,Mercor,2026-11-20T18:48:46+00:00,True,Research
+1.0,JOB,AI Safety Practitioner - Expert Evaluator,Mercor,2026-11-20T18:48:21+00:00,True,Research
+1.0,JOB,Scientist III - CMC,Cardinal Health,2026-11-20T18:47:45+00:00,True,Research
+1.0,JOB,Unreal Engine Developer – Remote (Worldwide),Remotejobsone,2026-11-20T18:47:37+00:00,True,Product
