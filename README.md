@@ -108,7 +108,7 @@ To scale ingestion without requiring code modifications:
 ├── docs/
 │   ├── architecture.md       # Technical design specification
 │   └── generate_pdf.py       # 3-page PDF generation script
-├── tests/                    # 19 automated unit & integration tests
+├── tests/                    # 20 automated unit & integration tests
 ├── architecture.pdf          # 3-page architecture document
 ├── requirements.txt
 └── README.md
@@ -142,8 +142,8 @@ pip install -r requirements.txt
 ### Running Tests
 Execute the automated test suite verifying schemas, date normalization, chunking, and entity resolution:
 ```bash
-python -m pytest tests/ -v
-# Output: 19 passed in 0.28s
+pytest -v
+# Output: 20 passed in 0.40s
 ```
 
 ### Running the Pipeline
